@@ -8,7 +8,6 @@
 #define _GNU_SOURCE
 #define __USE_GNU 1
 #include <fcntl.h>
-
 /*Cited:
 https://github.com/torvalds/linux/tree/master/Documentation/scheduler?/fbclid=IwAR2CY8FthfoUwz5gcZm0Ep_CLWaCcpLTlkpfl8V4H3C0R0992B26SyL357s
  https://github.com/funson/energy-aware-scheduling-simulator
